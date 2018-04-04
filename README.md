@@ -1,4 +1,5 @@
 # mswep
+##### A console clone of the classic Minesweeper
 
 An endeavour that started while waiting on a meeting with a professor, I am recreating one of my favorite simple games as a console application to tune as I please.
 I have minesweeper on my phone, but wanted to experience the same joy I do playing it with my thumbs in the console. 
