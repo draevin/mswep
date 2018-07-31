@@ -1,6 +1,6 @@
-# mswep
+# mswep 
 
-## A console clone of the classic Minesweeper
+> A console clone of the hit classic Minesweeper
 
 An endeavour that started while waiting on a meeting with a professor, I am recreating one of my favorite simple games as a console application to tune as I please.
 I have minesweeper on my phone, but wanted to experience the same joy I do playing it with my thumbs in the console.
@@ -22,7 +22,7 @@ To uncover a given cell, enter its coordinates according to the guides in the pr
 
 If the player believes a cell contains a mine, they can mark it with a star for identification later, and to prevent accidentally uncovering that cell using the given format: `*X.Y`
 
-(Note: Markings can be removed by repeating this process on a given cell)
+(Note: Markings can be removed by repeating this command on a given cell)
 
 The game will end in victory when all mines are marked, or by isolating the mines when all empty cells are uncovered.
 
